@@ -1,2 +1,2 @@
 # Python1
-Python harjotukset. asdasdasdasdasdasdasdasdasdasd
+Python harjotukset. 
